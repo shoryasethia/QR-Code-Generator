@@ -1,4 +1,8 @@
-# Setup
+## To Clone use
+```
+git clone https://github.com/shoryasethia/QR-Code-Generator
+```
+## Setup
 Install QR code library
 ```
 pip install qrcode
